@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kevin%20here"/>
 </p>
 
