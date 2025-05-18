@@ -1,6 +1,9 @@
 ## Hi there 👋
 <p >
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kevin%20here"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Kevin%20here"/>
+</p>
+<p >
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFtNDByc204ZG9qYzY4M3ByeDY3MXFvcGkzZmw5YXBvZDZrNHIydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPG8tUqNamNitJbswa/giphy.gif"/>
 </p>
 
 Welcome to my GitHub portfolio! I am a Genesys Cloud Developer with experience in designing, developing, and integrating scalable contact center solutions using Genesys Cloud, AWS, Python, JavaScript, React, and Next.js.
@@ -13,7 +16,6 @@ Welcome to my GitHub portfolio! I am a Genesys Cloud Developer with experience i
 
 💡 Skilled in Python (APIs, automation) and JavaScript (React, Next.js).
 
-}
 <!--
 **Kevin-babu/Kevin-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
