@@ -3,10 +3,8 @@
           
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=I%20am%20Kevin%20Babu!"/>
-<!--    <img height="300" 
-    src="https://i.giphy.com/WPG8tUqNamNitJbswa.webp"/> -->
-<img height="300"
-          src="https://i.giphy.com/mYdOLUFQVzqzdoxqq4.webp"/>
+   <img height="300" 
+    src="https://i.giphy.com/WPG8tUqNamNitJbswa.webp"/>
 </p>
 
 
