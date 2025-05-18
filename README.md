@@ -50,17 +50,14 @@ Welcome to my GitHub portfolio! I am a Genesys Cloud Developer with experience i
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a> -->
 </div>
-<!--
-**Kevin-babu/Kevin-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡️ Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align=center>
+  <img width=390 height = "300"  src="https://github-readme-stats.vercel.app/api?username=Kevin-babu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Kevin Babu's GitHub Stats" />
+  <img width=390  height = "300" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-babu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Kevin-babu's" />
+  <img width=390  src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-babu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Kevin-babu's Most Used Languages" />
+</div>
+
